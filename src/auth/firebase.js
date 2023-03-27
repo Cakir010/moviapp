@@ -29,7 +29,7 @@ export const auth = getAuth(app);
 // export const createUser = async (email, password, displayName, navigate) => {
 //   try {
 //     //? yeni bir kullanıcı oluşturmak için kullanılan firebase metodu
-//     let userCredential = await createUserWithEmailAndPassword(
+//     let userCredential = await createUserWithEmailAndPanpssword(
 //       auth,
 //       email,
 //       password
