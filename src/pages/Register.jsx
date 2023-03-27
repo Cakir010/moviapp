@@ -29,9 +29,7 @@ const Register = () => {
     console.log(firstName, lastName);
   };
 
-  // const hadleChange = (e) =>
-  //   setInfo({ ...info, [e.target.id]: e.target.value });
-
+  
   const handleProviderLogin = () => {
     signUpProvider();
   };
